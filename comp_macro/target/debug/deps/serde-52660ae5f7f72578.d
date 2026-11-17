@@ -1,0 +1,14 @@
+/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/deps/serde-52660ae5f7f72578.d: /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/build/serde-e505a548fc752113/out/private.rs
+
+/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/deps/libserde-52660ae5f7f72578.rlib: /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/build/serde-e505a548fc752113/out/private.rs
+
+/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/deps/libserde-52660ae5f7f72578.rmeta: /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/build/serde-e505a548fc752113/out/private.rs
+
+/home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/build/serde-e505a548fc752113/out/private.rs:
+
+# env-dep:OUT_DIR=/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/build/serde-e505a548fc752113/out

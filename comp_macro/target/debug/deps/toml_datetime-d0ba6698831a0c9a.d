@@ -1,0 +1,10 @@
+/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/deps/toml_datetime-d0ba6698831a0c9a.d: /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/lib.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/datetime.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/de.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/ser.rs
+
+/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/deps/libtoml_datetime-d0ba6698831a0c9a.rlib: /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/lib.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/datetime.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/de.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/ser.rs
+
+/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/target/debug/deps/libtoml_datetime-d0ba6698831a0c9a.rmeta: /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/lib.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/datetime.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/de.rs /home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/ser.rs
+
+/home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/lib.rs:
+/home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/datetime.rs:
+/home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/de.rs:
+/home/justice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.3+spec-1.1.0/src/ser.rs:

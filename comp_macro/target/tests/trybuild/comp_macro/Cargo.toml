@@ -1,0 +1,43 @@
+[package]
+name = "comp_macro-tests"
+version = "0.0.0"
+edition = "2024"
+publish = false
+
+[dependencies.comp_macro]
+path = "/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/"
+default-features = false
+
+[dependencies.proc-macro2]
+version = "1.0.107"
+default-features = true
+
+[dependencies.quote]
+version = "1.0.47"
+default-features = true
+
+[dependencies.syn]
+version = "3.0.10"
+features = ["extra-traits", "full"]
+
+[[bin]]
+name = "comp_macro-tests"
+path = "main.rs"
+
+[[bin]]
+name = "trybuild000"
+path = "/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/tests/ui/invalid_codition.rs"
+
+[[bin]]
+name = "trybuild001"
+path = "/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/tests/ui/missing_for.rs"
+
+[[bin]]
+name = "trybuild002"
+path = "/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/tests/ui/missing_in_keyword.rs"
+
+[[bin]]
+name = "trybuild003"
+path = "/home/justice/Documents/Workspace/programmin/rust/comp/comp_macro/tests/ui/non_boolean_condition.rs"
+
+[workspace]
